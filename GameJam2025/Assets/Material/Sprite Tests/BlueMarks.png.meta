@@ -1,0 +1,4967 @@
+fileFormatVersion: 2
+guid: 827fe1cb99afd42338b1c73329569f42
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueMarks_0
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2838
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e41fe65c1934e68ad3bae299119233
+      internalID: -1531308152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_1
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 2838
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa0acb1504de4142810694e7890b427
+      internalID: -210695640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_2
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 2838
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aaae1e1822a4023b47da3c5f79b084
+      internalID: -528912501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_3
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2838
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96691aab150e4a35bb9e1179a4cba10
+      internalID: 1492069391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_4
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 2838
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f9dbffcf3b4738909e5bcf5e29737
+      internalID: 67244012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_5
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2838
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5214d3fb66cb14ed489675f34b477010
+      internalID: -61714201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_6
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2838
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c063ff0d8b34ca79abfa38627fb3ea
+      internalID: 1877889301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf24790d9a2e4fccaedecdc8c626a9f
+      internalID: 479395535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316958f4953ec4318aa33eb4f2b61649
+      internalID: -210722359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f42d7b8d8f8f449cb0cdf2c2b4eb2b8
+      internalID: -197904924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7daaa60711a44d6bd0b66009a42455
+      internalID: -750010692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_11
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffa2aceb5d35463f92cc8fa1cff07fc
+      internalID: -2102655449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_12
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b85336bf16e481a9101b4060d11315
+      internalID: -94177763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_13
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ecfaa96f7a24459a48cda07cf5823a
+      internalID: 1531032922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_14
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78791aa6e4f944f6a4923044dc39461
+      internalID: -246106066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_15
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac886c4c58f7a4d54b3c4378bd955685
+      internalID: 1875637304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_16
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0ff682cd1344f6e9f9438da43c1022
+      internalID: 16533424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_17
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf2f79af2505466b9c163d09f8c559e
+      internalID: 2072119637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_18
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7117b450cdb1439398e7e83c24abb2a
+      internalID: 1902371442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_19
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e31187b05d4542fa8aed5c8e1d3c64b
+      internalID: 253974648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_20
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7412e07c6982b4d14a063fa10d06767c
+      internalID: -2004479495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_21
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36ecef6cbd974d1d8e7d41f60c48a9d
+      internalID: -728434182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_22
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a7e1d7b4fc0441da2b01941b34f7d7
+      internalID: -177435544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_23
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59efc7423b245451e9a56b24f71ec5bf
+      internalID: 1941271339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_24
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd51977decd64ed481e8688c38016a7
+      internalID: 1470770598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_25
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5480761938fc42e2beff5478db98975
+      internalID: 2084578965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_26
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2772
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9b806e55a89470eab510d53ad606fa
+      internalID: 1560056880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300d2ad595c4d4cd79cb6c05e0da3cc3
+      internalID: 489547059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54adcd18e6305443583f04aa7bc63dc1
+      internalID: -1814592807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184e3c5de0e66489ea672bba61c0e35c
+      internalID: -796612125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57c94529859043d9a91a5f6e5107284
+      internalID: -1389851627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbf9fb73ded5469482b36254a05c801
+      internalID: 711455414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f6ab908e3c4a87b9e4860543c7e29
+      internalID: 1464920265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d88a5a01fd1403482fd7caae466688
+      internalID: 1428443771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19446c65f8d1c444eab92a5b42f752d6
+      internalID: -1439575920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bdd386a6b6e4e298dc02b3957ae650
+      internalID: -660243747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_36
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9bc8bb5d3624382ba816e1f83f6b29
+      internalID: -1961766454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_37
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3c28a565b3a4a4587e4acc12f5d532
+      internalID: 2081623740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_38
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cfa3bb998db4dac8111f5228f278c1
+      internalID: 1636950348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_39
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7e2ab461bd84db18f59549d1f756ef
+      internalID: -1030915090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_40
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b68e0226ef942fc91c1fb83084f18b
+      internalID: -1473647786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_41
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b274ec13809224c53be4ea4f0f034eab
+      internalID: 1120192344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_42
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd144e129d968472cacb0ca0b0c0cfa1
+      internalID: 2004376535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_43
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caaa129320e14a5ea413a4b11143853
+      internalID: -324791364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_44
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09df6db7616c47a188a12fe45510d48
+      internalID: 1420721889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_45
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ae603a5a5c846fcb065db40034199c
+      internalID: 285865883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_46
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2c1eb01ac8e4688ad8754c5a078dfe
+      internalID: -1661831186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_47
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4c54298a6da413caf5c1df9a3872e2
+      internalID: 1355349499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_48
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9580448bee345f5b6799ee440da423
+      internalID: 146579977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_49
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddbb00930fc74542b212b16716fbfba
+      internalID: -1542244087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_50
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f1b44d380cf4f7bb0581e108078fc0
+      internalID: -1907962124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_51
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3107f0c13ffe5491aa4cfd33e531b9da
+      internalID: 1884330968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_52
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0562984e27b45e586d4cff3630e008
+      internalID: 669667976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_53
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a76b7f5b912499692848695a66ab5e
+      internalID: -47714649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_54
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42d60a8ec9d84b3c87f5f5bd0687c0a
+      internalID: -1405263325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_55
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2706
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb801819bb484f0fb6bba4a53f6e4f9
+      internalID: -744988532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b4143be8a454be9b281a23bc59807f
+      internalID: -1826147549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_57
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364f17c1b42ef496fb02b916de8fc281
+      internalID: -671384598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_58
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e41292497c4a4afdbd8d1ade1e23d14
+      internalID: -395014753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_59
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e512c34a795044018dabc5e05989b13
+      internalID: -363423109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defff0db3a44645e0b38b25d07b5c9b3
+      internalID: 1474446618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_61
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fd761ca05f8482488ffa260cfe462d
+      internalID: 143054461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_62
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20adb5d023174dc691d470e1a893366
+      internalID: -1332647703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_63
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27de707cc754f83b7de185b421f276
+      internalID: -1615833835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_64
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3a5c53838e4406a8fd0bde72ba7b89
+      internalID: -1058307893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_65
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb26e064d7df4999876669cea264955
+      internalID: 1806734212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_66
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46966e83a8f18427392e4e7f2daf5aa0
+      internalID: 696738755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_67
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c4f6e354c8a406a961b949306bcb4f
+      internalID: 956756639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_68
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62da1687684e341649ef180d997d2551
+      internalID: 186734773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_69
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fdeb829b5cd432498b08c09e277590
+      internalID: 935601183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_70
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfa1f4b34d02450d92e7b8e7cb539af
+      internalID: 229816265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_71
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0219f642180084deaae6555438e6873a
+      internalID: -2141306152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_72
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9e8c8ecf4a5441d9861b541cb01f11
+      internalID: 1690039341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_73
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b204d1ae702aa4968bc08c46b0dee8b5
+      internalID: -885899397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_74
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd89dbc64ece482782f2f1c269e5e42
+      internalID: 1936675244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_75
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b3684d5772648dbaddbaac49f35ae6
+      internalID: -1198008243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_76
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b46cca276f0e44cdbc675a5a29de0e1
+      internalID: 1764711836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_77
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1641a0651e781429a923ee90ffb6b417
+      internalID: 1151878193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_78
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d878a3c3c13264b368279c644dac5527
+      internalID: 1511523231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_79
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2640
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed518ac9b597485f8ff439af1075abf
+      internalID: 1543795535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_80
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2574
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165251fcb7c3b4837986842d3fee0ee5
+      internalID: 349304710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_81
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2442
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9acefa6f195d4e8c876b17f8014cfff
+      internalID: 1595953469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_82
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2376
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f453c6990930342c7a2e85ef798260b2
+      internalID: 1416000775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_83
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2376
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c060fce38524ff1a626b3a54f40035
+      internalID: 1609074799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_84
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2376
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cd67eccefac43e2ad8e8811cd606b6
+      internalID: -911945090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_85
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2376
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b17221ebbc84a37a31f2cc5d150ddb
+      internalID: -1594957066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_86
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2376
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3961bf13719754349af3326dedf74111
+      internalID: -602117013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_87
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2376
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0909668ed652b4d3a8855644ad88c138
+      internalID: 412286381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5893a00da2de24c5c8d56d2ceab67b72
+      internalID: -2015445975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_89
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf02f37468cf45928adb5adaad5ad88
+      internalID: -1234739277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_90
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad5d13afa1a9415c81d4519801f32a8
+      internalID: -2020882374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_91
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe01faaab2264fc8a910b9f280998aa
+      internalID: -1437851236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_92
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053a504ccacaa46f6a65555ff72dee9a
+      internalID: -1684585635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_93
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c7e6f21c3d4ce09dd43ad4828a834
+      internalID: -1202680760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_94
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac3455dd73e14134ada1fac27157202
+      internalID: 740075427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_95
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ab0f1f1843347ac8944081ad1ec9c8
+      internalID: 1444381406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_96
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dba9ab50f4804e79bcc53621aae145b
+      internalID: 282095960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_97
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2ef63929f394640894edeb8b216a1f
+      internalID: -1333964297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_98
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dbdea7431344a39aac152e5a117b3f
+      internalID: 1942985375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_99
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d41b12e841848d1a262d4f32b49147
+      internalID: -982610866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_100
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7934a9f5e61f4320a7f9dca528b006f
+      internalID: -1196316802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_101
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229d010e79107419f9ffda8a8fc9e217
+      internalID: -1071127642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_102
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2310
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daa6abb991224682a9782784dbf839c
+      internalID: -208464027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_103
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2244
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a5a8e4d3c2240aea91127b4416ef5b
+      internalID: -241748707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_104
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2244
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60eee0ebeb27431d9793a739b9ebb59
+      internalID: 1231109292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_105
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2244
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dc96d79f0df4036a9a4087458a0d2c
+      internalID: 558534009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_106
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2244
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4d85b1e55c74e50b361623a6563860
+      internalID: 1320721399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_107
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2244
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1367429fdbee04164b6132760149e2c3
+      internalID: 704689780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_108
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2244
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50640f1033d641808324f31913177c1
+      internalID: 1933611422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_109
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2244
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd6cec04a60c40f4b2888b14dea257d
+      internalID: 1995987761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_110
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2244
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f05f8507b13248e0a8c0f9ed2b97561
+      internalID: 1888516973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_111
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2244
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1998fe2a9eac4319b330d2c3a804f9a
+      internalID: 1431268408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_112
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2244
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d12bf0176a434ab6478e8ec4f6d50
+      internalID: 2050463536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_113
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2244
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1502c44bff741fa82957b55607b897
+      internalID: -967675585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_114
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2178
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788be8a799e114c998be1cfcd8604bb2
+      internalID: 408185402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_115
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2178
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff32e2e91130441788d57a08ec299c27
+      internalID: -168192252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_116
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1122
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b724dba06d142a2a7b53f51ef51a48
+      internalID: -1219850512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_117
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1122
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f994ea1845a14875a03acf75e4530d2
+      internalID: 1801742548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_118
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1122
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68b68bac3462485abb355faa678a055
+      internalID: -1703927101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_119
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1122
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d09f1ab949a45b9845cee81d943acd
+      internalID: 559392144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_120
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1122
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036c189aac1f84fafb5a0b03ce46b81c
+      internalID: 1295575301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_121
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1122
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a34e67e8dee48589d2e1d6ee85d5d4
+      internalID: 572116579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_122
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1122
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e294ddefd005b4c0e9f80637ff8d6568
+      internalID: 584879858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_123
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1122
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554bbe0773b72443aae8904f13978952
+      internalID: -678562555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_124
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1122
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4587ca4146a6a45418cb4018dcf38c21
+      internalID: 1774375904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_125
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1122
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1603b14714ac473ea0f2ee1b06b138d
+      internalID: -1805513636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_126
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1056
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b524367c4b83042c1845af90911ddcf2
+      internalID: 185935055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_127
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1056
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5212f8d989f9f40c491bc6eeab27d42d
+      internalID: -1004911929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_128
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1056
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb42ea43071484087895c57657ecf178
+      internalID: 1274749754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_129
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1056
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8d616e58ab440ab95f52345cee9012
+      internalID: 2058773069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_130
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1056
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e7a4a5a0e62413990e327bbd3fe605
+      internalID: -397842403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_131
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1056
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78df9fe75f1554b8390d2315a44c5445
+      internalID: -1110305973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_132
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1056
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39b3b1b1fe76494da641eafea9b146c
+      internalID: 982290476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_133
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1056
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b935cb22407224608a5acfb053f4162c
+      internalID: -249369346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_134
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1056
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5680d6a27f845e389b2426b4bc6111
+      internalID: -1827770540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_135
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1056
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65514d74156f94225a886e40566ba479
+      internalID: -1492950581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_136
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 990
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5857963a46448dd807231533628810
+      internalID: -1884149416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_137
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 990
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e918b90b33be412096669e6998f4867
+      internalID: -500579680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_138
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 990
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b079425fc124ae4b474a2b28bca9ac
+      internalID: -673530865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_139
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 990
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c1cc86a6cba4e90885a89fa4460c6e
+      internalID: 477517918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_140
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 990
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e69a10b2b91438ead44bfd400a53e1
+      internalID: 839936604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_141
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 990
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f343c43da94b3583e73784e09f8d2
+      internalID: -1748464115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_142
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 990
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0a83b817e4547749997093ce376831
+      internalID: 666559995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_143
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 990
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bcbb15ede5044678798e1793c7f8e4
+      internalID: -1882065974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_144
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 990
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57331d4301c4c4f59be89659e35e4b13
+      internalID: 1863837178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_145
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 990
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee3d8e1ba2fe433cb98a3bc5c3248c3
+      internalID: -1564205459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_146
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 990
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1280fbc54fd8d490898368ef8e06014c
+      internalID: 358935057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_147
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 924
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62860a7bed994bd79e5a1c7e58d1884
+      internalID: -1291294552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_148
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 924
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ae9f8fc70e64e8c8633f7d7ec6869b
+      internalID: 1610989719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_149
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 924
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf840db9975f460da5e5c0295d2b6fb
+      internalID: 590523770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_150
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 924
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd539a4f89bea4c12a8b31eed522c68c
+      internalID: -383887660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_151
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 924
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be240b08d5c184c2da40f21f06261e0a
+      internalID: -760334053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_152
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 924
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a2d4e4aff6848ef9a0076f9e285807
+      internalID: -1578258118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_153
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 924
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6323c365da246cb8bb34b338711bba
+      internalID: 308553434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_154
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 924
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b199271ec12ca4a7db8ea87b5cb7bcd6
+      internalID: 2127632343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_155
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 924
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f66e0a82ae9240a5942ba2b6759cd8a
+      internalID: -1861104237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_156
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 924
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b0e65bbd2d5404ba75b90b3cf44193
+      internalID: -1490822489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_157
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 924
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e23d9a0822414628b472ae15a6564f5
+      internalID: -233042232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_158
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 858
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afbe3df8199c47b594c840cc8fccb15
+      internalID: -563542811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_159
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 858
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22465ea68a75498a9f4cb84749fb29b
+      internalID: 80717828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_160
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 858
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966674c15ddc840378bcbeb320983010
+      internalID: 2120995417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_161
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 792
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaa58ca4fe3849888deeaca64dab403
+      internalID: 296653185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_162
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 792
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280fd0bc195e24760a63504753d08457
+      internalID: -1661185194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_163
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 792
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad43de5b32cc9489d8b38c165c22bcb2
+      internalID: 226875765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_164
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 528
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d0b07009fe24315b0d8507901a9084
+      internalID: -1966290411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_165
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 528
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac7e1df0d1534cfbb0d7175dd594ab8
+      internalID: -699544331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_166
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 528
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f617c8952e544bf0b3e330661212003
+      internalID: -978369021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_167
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 462
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423caa2c5ae564473b546db82334af73
+      internalID: -46285564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_168
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 462
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a415eb3b6c84747ab9c41fb4f40f04fb
+      internalID: 681502764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_169
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 462
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7599a9f4ccb54a4393f376b53554b29
+      internalID: -340986793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_170
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 462
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb1ad8abfbaf4db5bce85468bd7e1a7
+      internalID: -147363605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_171
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 462
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe4a4d7fe09c4354844df0095610e1a
+      internalID: -1321001038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_172
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 396
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4be7116aeff44242b621454f67f0592
+      internalID: -102535907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_173
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 396
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c216832a7a1e34bb3a2e0ebe0a67c7c5
+      internalID: 1974629996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_174
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 396
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe390fcdf23b4832a6b774b273214d0
+      internalID: -482351445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_175
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 396
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e408129a8994aa389e1de600e7409a
+      internalID: -1713450771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_176
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 396
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c0fcd71a77a438a8b3818e2ed565e7
+      internalID: 1657250806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_177
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 396
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726e9a950316d4b8aaeac7615a99a2f3
+      internalID: 1277638020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_178
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 396
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58805da5120e4457283bbfeea4477147
+      internalID: 1507561648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_179
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 396
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f96fbdef4cb4528b69de7d58739a27
+      internalID: -821623963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_180
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 330
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b15b0500dd994acdbcf583cfca57d9c
+      internalID: -1695906900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_181
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 330
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21b03ef2bad84e01b249781f5825aca
+      internalID: 716627460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_182
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 330
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271a05847c4324de79c654853f065faf
+      internalID: 585566037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_183
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 330
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05436cb35640421bb12ede7c4010102
+      internalID: -1751840610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_184
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 330
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0de6c024b3d24bde98527ef00736b56
+      internalID: -108938850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_185
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 330
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a069b18a5ce4dce8c58d63df626f75
+      internalID: -1296037235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_186
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 330
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7b1aa112dea4f18b280b7beb844422
+      internalID: -832346718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_187
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 330
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7475a49ce4d34d26894d1c51c42c5ac
+      internalID: -1373225776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_188
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 330
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817adf300f7084e1cbc9ccd43e69b1ea
+      internalID: 485767271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_189
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 264
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b880dd1dd23a4a139f893f10e2b5fcd
+      internalID: -1215893896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_190
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 264
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d66c297239b54a7c9e8dcdf16b2c152
+      internalID: -1900423755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_191
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 264
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d6aa989465246efa607b83ee377ff0
+      internalID: -1238008402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_192
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 264
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90510f4e96ab64d229fca5dd6b65e739
+      internalID: 1272058832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_193
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 264
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc754b6e9764fc9a5c478ea150f9c9
+      internalID: 2123470692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_194
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 264
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2611a4e9e7d47ea857f2907e830df3
+      internalID: -1573979940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_195
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 264
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33226a1022b74160a2d68a90207ddd5
+      internalID: -1520289247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_196
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 264
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65a3734e4bb74f12aaf8db1846df57a
+      internalID: -1829268658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_197
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 264
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfdb44b3d3fa402dbf141d12d1cdfbb
+      internalID: 1211301403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_198
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 198
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ddf390c9929481f991814d3ffab128
+      internalID: 1080078518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_199
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 198
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe77297a7e9a4457b9ddbc62ef20fef
+      internalID: 676592945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_200
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 198
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20a5450adb434cbf9a090330fa9936c
+      internalID: -886831061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_201
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 198
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da96dc305923401490991d10aaea559
+      internalID: 1613958095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_202
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 198
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329eca6c826aa4c1d8403c7bde25e9d1
+      internalID: 1825314875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_203
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 198
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2a7197fdc5f4e98a6f0385d7079336
+      internalID: -1964599981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_204
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 198
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b17bc5f164ee4f05ac9cf73a83b49fb
+      internalID: -1627877302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_205
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 198
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e4cb808211c4574867e09596200a66
+      internalID: -1854209599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_206
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 198
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323b0fda8ac1048368c91ed2c91bf07b
+      internalID: -1353252355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_207
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 132
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9dd96f917d747be9f7fb65be77ee28
+      internalID: -480465258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_208
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 132
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d9c6a9f48e44b7b07b988e128e94a
+      internalID: 179167781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_209
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 132
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d74ab178790d422d97ce7592263a575
+      internalID: 1693377984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_210
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 132
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdafe618285fc4eeb86ade95d80e75f8
+      internalID: -2118237293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_211
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 132
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5523959b5b7494151985d336c66c6b30
+      internalID: 1242974509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_212
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 132
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2353c2bcdd849e69f0981a014f63da
+      internalID: -2085262997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_213
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 132
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b7ca37a8695446f99452903f36b577
+      internalID: -2012106811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_214
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e24fb006b6fd47cebe37fd0b347ca5b
+      internalID: 124953750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_215
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 66
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352f3ae6459cf40aeb4674282a64b14a
+      internalID: -2016025785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_216
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 66
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc84c1ddf0e24ca6b6cecb0fc8f35e7
+      internalID: -739728267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_217
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 66
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0702e1f14eb544e9693e12d185002493
+      internalID: -1943130894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_218
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6715444bad4934027b8d4217ca67678f
+      internalID: 1213689131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueMarks_219
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd96631ee88d4b5e894f94907622d0d
+      internalID: -1353286979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BlueMarks_0: -1531308152
+      BlueMarks_1: -210695640
+      BlueMarks_10: -750010692
+      BlueMarks_100: -1196316802
+      BlueMarks_101: -1071127642
+      BlueMarks_102: -208464027
+      BlueMarks_103: -241748707
+      BlueMarks_104: 1231109292
+      BlueMarks_105: 558534009
+      BlueMarks_106: 1320721399
+      BlueMarks_107: 704689780
+      BlueMarks_108: 1933611422
+      BlueMarks_109: 1995987761
+      BlueMarks_11: -2102655449
+      BlueMarks_110: 1888516973
+      BlueMarks_111: 1431268408
+      BlueMarks_112: 2050463536
+      BlueMarks_113: -967675585
+      BlueMarks_114: 408185402
+      BlueMarks_115: -168192252
+      BlueMarks_116: -1219850512
+      BlueMarks_117: 1801742548
+      BlueMarks_118: -1703927101
+      BlueMarks_119: 559392144
+      BlueMarks_12: -94177763
+      BlueMarks_120: 1295575301
+      BlueMarks_121: 572116579
+      BlueMarks_122: 584879858
+      BlueMarks_123: -678562555
+      BlueMarks_124: 1774375904
+      BlueMarks_125: -1805513636
+      BlueMarks_126: 185935055
+      BlueMarks_127: -1004911929
+      BlueMarks_128: 1274749754
+      BlueMarks_129: 2058773069
+      BlueMarks_13: 1531032922
+      BlueMarks_130: -397842403
+      BlueMarks_131: -1110305973
+      BlueMarks_132: 982290476
+      BlueMarks_133: -249369346
+      BlueMarks_134: -1827770540
+      BlueMarks_135: -1492950581
+      BlueMarks_136: -1884149416
+      BlueMarks_137: -500579680
+      BlueMarks_138: -673530865
+      BlueMarks_139: 477517918
+      BlueMarks_14: -246106066
+      BlueMarks_140: 839936604
+      BlueMarks_141: -1748464115
+      BlueMarks_142: 666559995
+      BlueMarks_143: -1882065974
+      BlueMarks_144: 1863837178
+      BlueMarks_145: -1564205459
+      BlueMarks_146: 358935057
+      BlueMarks_147: -1291294552
+      BlueMarks_148: 1610989719
+      BlueMarks_149: 590523770
+      BlueMarks_15: 1875637304
+      BlueMarks_150: -383887660
+      BlueMarks_151: -760334053
+      BlueMarks_152: -1578258118
+      BlueMarks_153: 308553434
+      BlueMarks_154: 2127632343
+      BlueMarks_155: -1861104237
+      BlueMarks_156: -1490822489
+      BlueMarks_157: -233042232
+      BlueMarks_158: -563542811
+      BlueMarks_159: 80717828
+      BlueMarks_16: 16533424
+      BlueMarks_160: 2120995417
+      BlueMarks_161: 296653185
+      BlueMarks_162: -1661185194
+      BlueMarks_163: 226875765
+      BlueMarks_164: -1966290411
+      BlueMarks_165: -699544331
+      BlueMarks_166: -978369021
+      BlueMarks_167: -46285564
+      BlueMarks_168: 681502764
+      BlueMarks_169: -340986793
+      BlueMarks_17: 2072119637
+      BlueMarks_170: -147363605
+      BlueMarks_171: -1321001038
+      BlueMarks_172: -102535907
+      BlueMarks_173: 1974629996
+      BlueMarks_174: -482351445
+      BlueMarks_175: -1713450771
+      BlueMarks_176: 1657250806
+      BlueMarks_177: 1277638020
+      BlueMarks_178: 1507561648
+      BlueMarks_179: -821623963
+      BlueMarks_18: 1902371442
+      BlueMarks_180: -1695906900
+      BlueMarks_181: 716627460
+      BlueMarks_182: 585566037
+      BlueMarks_183: -1751840610
+      BlueMarks_184: -108938850
+      BlueMarks_185: -1296037235
+      BlueMarks_186: -832346718
+      BlueMarks_187: -1373225776
+      BlueMarks_188: 485767271
+      BlueMarks_189: -1215893896
+      BlueMarks_19: 253974648
+      BlueMarks_190: -1900423755
+      BlueMarks_191: -1238008402
+      BlueMarks_192: 1272058832
+      BlueMarks_193: 2123470692
+      BlueMarks_194: -1573979940
+      BlueMarks_195: -1520289247
+      BlueMarks_196: -1829268658
+      BlueMarks_197: 1211301403
+      BlueMarks_198: 1080078518
+      BlueMarks_199: 676592945
+      BlueMarks_2: -528912501
+      BlueMarks_20: -2004479495
+      BlueMarks_200: -886831061
+      BlueMarks_201: 1613958095
+      BlueMarks_202: 1825314875
+      BlueMarks_203: -1964599981
+      BlueMarks_204: -1627877302
+      BlueMarks_205: -1854209599
+      BlueMarks_206: -1353252355
+      BlueMarks_207: -480465258
+      BlueMarks_208: 179167781
+      BlueMarks_209: 1693377984
+      BlueMarks_21: -728434182
+      BlueMarks_210: -2118237293
+      BlueMarks_211: 1242974509
+      BlueMarks_212: -2085262997
+      BlueMarks_213: -2012106811
+      BlueMarks_214: 124953750
+      BlueMarks_215: -2016025785
+      BlueMarks_216: -739728267
+      BlueMarks_217: -1943130894
+      BlueMarks_218: 1213689131
+      BlueMarks_219: -1353286979
+      BlueMarks_22: -177435544
+      BlueMarks_23: 1941271339
+      BlueMarks_24: 1470770598
+      BlueMarks_25: 2084578965
+      BlueMarks_26: 1560056880
+      BlueMarks_27: 489547059
+      BlueMarks_28: -1814592807
+      BlueMarks_29: -796612125
+      BlueMarks_3: 1492069391
+      BlueMarks_30: -1389851627
+      BlueMarks_31: 711455414
+      BlueMarks_32: 1464920265
+      BlueMarks_33: 1428443771
+      BlueMarks_34: -1439575920
+      BlueMarks_35: -660243747
+      BlueMarks_36: -1961766454
+      BlueMarks_37: 2081623740
+      BlueMarks_38: 1636950348
+      BlueMarks_39: -1030915090
+      BlueMarks_4: 67244012
+      BlueMarks_40: -1473647786
+      BlueMarks_41: 1120192344
+      BlueMarks_42: 2004376535
+      BlueMarks_43: -324791364
+      BlueMarks_44: 1420721889
+      BlueMarks_45: 285865883
+      BlueMarks_46: -1661831186
+      BlueMarks_47: 1355349499
+      BlueMarks_48: 146579977
+      BlueMarks_49: -1542244087
+      BlueMarks_5: -61714201
+      BlueMarks_50: -1907962124
+      BlueMarks_51: 1884330968
+      BlueMarks_52: 669667976
+      BlueMarks_53: -47714649
+      BlueMarks_54: -1405263325
+      BlueMarks_55: -744988532
+      BlueMarks_56: -1826147549
+      BlueMarks_57: -671384598
+      BlueMarks_58: -395014753
+      BlueMarks_59: -363423109
+      BlueMarks_6: 1877889301
+      BlueMarks_60: 1474446618
+      BlueMarks_61: 143054461
+      BlueMarks_62: -1332647703
+      BlueMarks_63: -1615833835
+      BlueMarks_64: -1058307893
+      BlueMarks_65: 1806734212
+      BlueMarks_66: 696738755
+      BlueMarks_67: 956756639
+      BlueMarks_68: 186734773
+      BlueMarks_69: 935601183
+      BlueMarks_7: 479395535
+      BlueMarks_70: 229816265
+      BlueMarks_71: -2141306152
+      BlueMarks_72: 1690039341
+      BlueMarks_73: -885899397
+      BlueMarks_74: 1936675244
+      BlueMarks_75: -1198008243
+      BlueMarks_76: 1764711836
+      BlueMarks_77: 1151878193
+      BlueMarks_78: 1511523231
+      BlueMarks_79: 1543795535
+      BlueMarks_8: -210722359
+      BlueMarks_80: 349304710
+      BlueMarks_81: 1595953469
+      BlueMarks_82: 1416000775
+      BlueMarks_83: 1609074799
+      BlueMarks_84: -911945090
+      BlueMarks_85: -1594957066
+      BlueMarks_86: -602117013
+      BlueMarks_87: 412286381
+      BlueMarks_88: -2015445975
+      BlueMarks_89: -1234739277
+      BlueMarks_9: -197904924
+      BlueMarks_90: -2020882374
+      BlueMarks_91: -1437851236
+      BlueMarks_92: -1684585635
+      BlueMarks_93: -1202680760
+      BlueMarks_94: 740075427
+      BlueMarks_95: 1444381406
+      BlueMarks_96: 282095960
+      BlueMarks_97: -1333964297
+      BlueMarks_98: 1942985375
+      BlueMarks_99: -982610866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
