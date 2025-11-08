@@ -113,10 +113,10 @@ TextureImporter:
       name: RedMarks_0
       rect:
         serializedVersion: 2
-        x: 867
-        y: 3234
-        width: 51
-        height: 66
+        x: 900
+        y: 3240
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,10 +134,10 @@ TextureImporter:
       name: RedMarks_1
       rect:
         serializedVersion: 2
-        x: 969
-        y: 3234
-        width: 51
-        height: 66
+        x: 960
+        y: 3240
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,10 +155,10 @@ TextureImporter:
       name: RedMarks_2
       rect:
         serializedVersion: 2
-        x: 1275
-        y: 3234
-        width: 51
-        height: 66
+        x: 1320
+        y: 3240
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +176,10 @@ TextureImporter:
       name: RedMarks_3
       rect:
         serializedVersion: 2
-        x: 1326
-        y: 3234
-        width: 51
-        height: 66
+        x: 840
+        y: 3180
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +197,10 @@ TextureImporter:
       name: RedMarks_4
       rect:
         serializedVersion: 2
-        x: 867
-        y: 3168
-        width: 51
-        height: 66
+        x: 900
+        y: 3180
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,10 +218,10 @@ TextureImporter:
       name: RedMarks_5
       rect:
         serializedVersion: 2
-        x: 918
-        y: 3168
-        width: 51
-        height: 66
+        x: 960
+        y: 3180
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,10 +239,10 @@ TextureImporter:
       name: RedMarks_6
       rect:
         serializedVersion: 2
-        x: 969
-        y: 3168
-        width: 51
-        height: 66
+        x: 1260
+        y: 3180
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: RedMarks_7
       rect:
         serializedVersion: 2
-        x: 1020
-        y: 3168
-        width: 51
-        height: 66
+        x: 1320
+        y: 3180
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,10 +281,10 @@ TextureImporter:
       name: RedMarks_8
       rect:
         serializedVersion: 2
-        x: 1224
-        y: 3168
-        width: 51
-        height: 66
+        x: 1380
+        y: 3180
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +302,10 @@ TextureImporter:
       name: RedMarks_9
       rect:
         serializedVersion: 2
-        x: 1275
-        y: 3168
-        width: 51
-        height: 66
+        x: 1440
+        y: 3180
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,10 +323,10 @@ TextureImporter:
       name: RedMarks_10
       rect:
         serializedVersion: 2
-        x: 1326
-        y: 3168
-        width: 51
-        height: 66
+        x: 840
+        y: 3120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: RedMarks_11
       rect:
         serializedVersion: 2
-        x: 1377
-        y: 3168
-        width: 51
-        height: 66
+        x: 900
+        y: 3120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +365,10 @@ TextureImporter:
       name: RedMarks_12
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 3168
-        width: 51
-        height: 66
+        x: 960
+        y: 3120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,10 +386,10 @@ TextureImporter:
       name: RedMarks_13
       rect:
         serializedVersion: 2
-        x: 867
-        y: 3102
-        width: 51
-        height: 66
+        x: 1020
+        y: 3120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,10 +407,10 @@ TextureImporter:
       name: RedMarks_14
       rect:
         serializedVersion: 2
-        x: 918
-        y: 3102
-        width: 51
-        height: 66
+        x: 1200
+        y: 3120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: RedMarks_15
       rect:
         serializedVersion: 2
-        x: 969
-        y: 3102
-        width: 51
-        height: 66
+        x: 1260
+        y: 3120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,10 +449,10 @@ TextureImporter:
       name: RedMarks_16
       rect:
         serializedVersion: 2
-        x: 1020
-        y: 3102
-        width: 51
-        height: 66
+        x: 1320
+        y: 3120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: RedMarks_17
       rect:
         serializedVersion: 2
-        x: 1224
-        y: 3102
-        width: 51
-        height: 66
+        x: 1380
+        y: 3120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -491,10 +491,10 @@ TextureImporter:
       name: RedMarks_18
       rect:
         serializedVersion: 2
-        x: 1275
-        y: 3102
-        width: 51
-        height: 66
+        x: 1440
+        y: 3120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -512,10 +512,10 @@ TextureImporter:
       name: RedMarks_19
       rect:
         serializedVersion: 2
-        x: 1326
-        y: 3102
-        width: 51
-        height: 66
+        x: 840
+        y: 3060
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,10 +533,10 @@ TextureImporter:
       name: RedMarks_20
       rect:
         serializedVersion: 2
-        x: 1377
-        y: 3102
-        width: 51
-        height: 66
+        x: 900
+        y: 3060
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -554,10 +554,10 @@ TextureImporter:
       name: RedMarks_21
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 3102
-        width: 51
-        height: 66
+        x: 960
+        y: 3060
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -575,10 +575,10 @@ TextureImporter:
       name: RedMarks_22
       rect:
         serializedVersion: 2
-        x: 816
-        y: 3036
-        width: 51
-        height: 66
+        x: 1020
+        y: 3060
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,10 +596,10 @@ TextureImporter:
       name: RedMarks_23
       rect:
         serializedVersion: 2
-        x: 867
-        y: 3036
-        width: 51
-        height: 66
+        x: 1200
+        y: 3060
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,10 +617,10 @@ TextureImporter:
       name: RedMarks_24
       rect:
         serializedVersion: 2
-        x: 918
-        y: 3036
-        width: 51
-        height: 66
+        x: 1260
+        y: 3060
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: RedMarks_25
       rect:
         serializedVersion: 2
-        x: 969
-        y: 3036
-        width: 51
-        height: 66
+        x: 1320
+        y: 3060
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -659,10 +659,10 @@ TextureImporter:
       name: RedMarks_26
       rect:
         serializedVersion: 2
-        x: 1020
-        y: 3036
-        width: 51
-        height: 66
+        x: 1380
+        y: 3060
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -680,10 +680,10 @@ TextureImporter:
       name: RedMarks_27
       rect:
         serializedVersion: 2
-        x: 1224
-        y: 3036
-        width: 51
-        height: 66
+        x: 1440
+        y: 3060
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -701,10 +701,10 @@ TextureImporter:
       name: RedMarks_28
       rect:
         serializedVersion: 2
-        x: 1275
-        y: 3036
-        width: 51
-        height: 66
+        x: 840
+        y: 3000
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,10 +722,10 @@ TextureImporter:
       name: RedMarks_29
       rect:
         serializedVersion: 2
-        x: 1326
-        y: 3036
-        width: 51
-        height: 66
+        x: 960
+        y: 3000
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +743,10 @@ TextureImporter:
       name: RedMarks_30
       rect:
         serializedVersion: 2
-        x: 1377
-        y: 3036
-        width: 51
-        height: 66
+        x: 1020
+        y: 3000
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -764,10 +764,10 @@ TextureImporter:
       name: RedMarks_31
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 3036
-        width: 51
-        height: 66
+        x: 1200
+        y: 3000
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -785,10 +785,10 @@ TextureImporter:
       name: RedMarks_32
       rect:
         serializedVersion: 2
-        x: 816
-        y: 2970
-        width: 51
-        height: 66
+        x: 1260
+        y: 3000
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +806,10 @@ TextureImporter:
       name: RedMarks_33
       rect:
         serializedVersion: 2
-        x: 867
-        y: 2970
-        width: 51
-        height: 66
+        x: 1320
+        y: 3000
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -827,10 +827,10 @@ TextureImporter:
       name: RedMarks_34
       rect:
         serializedVersion: 2
-        x: 918
-        y: 2970
-        width: 51
-        height: 66
+        x: 1380
+        y: 3000
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -848,10 +848,10 @@ TextureImporter:
       name: RedMarks_35
       rect:
         serializedVersion: 2
-        x: 969
-        y: 2970
-        width: 51
-        height: 66
+        x: 1560
+        y: 2640
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,10 +869,10 @@ TextureImporter:
       name: RedMarks_36
       rect:
         serializedVersion: 2
-        x: 1020
-        y: 2970
-        width: 51
-        height: 66
+        x: 1620
+        y: 2640
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -890,10 +890,10 @@ TextureImporter:
       name: RedMarks_37
       rect:
         serializedVersion: 2
-        x: 1224
-        y: 2970
-        width: 51
-        height: 66
+        x: 1500
+        y: 2580
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -911,10 +911,10 @@ TextureImporter:
       name: RedMarks_38
       rect:
         serializedVersion: 2
-        x: 1275
-        y: 2970
-        width: 51
-        height: 66
+        x: 1560
+        y: 2580
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -932,10 +932,10 @@ TextureImporter:
       name: RedMarks_39
       rect:
         serializedVersion: 2
-        x: 1530
-        y: 2640
-        width: 51
-        height: 66
+        x: 1440
+        y: 2520
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -953,10 +953,10 @@ TextureImporter:
       name: RedMarks_40
       rect:
         serializedVersion: 2
-        x: 1581
-        y: 2640
-        width: 51
-        height: 66
+        x: 1500
+        y: 2520
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -974,10 +974,10 @@ TextureImporter:
       name: RedMarks_41
       rect:
         serializedVersion: 2
-        x: 1632
-        y: 2640
-        width: 51
-        height: 66
+        x: 1380
+        y: 2460
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -995,10 +995,10 @@ TextureImporter:
       name: RedMarks_42
       rect:
         serializedVersion: 2
-        x: 1479
-        y: 2574
-        width: 51
-        height: 66
+        x: 1440
+        y: 2460
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1016,10 +1016,10 @@ TextureImporter:
       name: RedMarks_43
       rect:
         serializedVersion: 2
-        x: 1530
-        y: 2574
-        width: 51
-        height: 66
+        x: 1320
+        y: 2400
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1037,10 +1037,10 @@ TextureImporter:
       name: RedMarks_44
       rect:
         serializedVersion: 2
-        x: 1581
-        y: 2574
-        width: 51
-        height: 66
+        x: 1380
+        y: 2400
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1058,10 +1058,10 @@ TextureImporter:
       name: RedMarks_45
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 2508
-        width: 51
-        height: 66
+        x: 1260
+        y: 2340
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1079,10 +1079,10 @@ TextureImporter:
       name: RedMarks_46
       rect:
         serializedVersion: 2
-        x: 1479
-        y: 2508
-        width: 51
-        height: 66
+        x: 1320
+        y: 2340
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1100,10 +1100,10 @@ TextureImporter:
       name: RedMarks_47
       rect:
         serializedVersion: 2
-        x: 1377
-        y: 2442
-        width: 51
-        height: 66
+        x: 1260
+        y: 2280
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1121,10 +1121,10 @@ TextureImporter:
       name: RedMarks_48
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 2442
-        width: 51
-        height: 66
+        x: 1320
+        y: 2280
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1142,10 +1142,10 @@ TextureImporter:
       name: RedMarks_49
       rect:
         serializedVersion: 2
-        x: 1326
-        y: 2376
-        width: 51
-        height: 66
+        x: 1500
+        y: 2220
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1163,10 +1163,10 @@ TextureImporter:
       name: RedMarks_50
       rect:
         serializedVersion: 2
-        x: 1377
-        y: 2376
-        width: 51
-        height: 66
+        x: 1560
+        y: 2220
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1184,10 +1184,10 @@ TextureImporter:
       name: RedMarks_51
       rect:
         serializedVersion: 2
-        x: 1275
-        y: 2310
-        width: 51
-        height: 66
+        x: 180
+        y: 2160
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1205,10 +1205,10 @@ TextureImporter:
       name: RedMarks_52
       rect:
         serializedVersion: 2
-        x: 1326
-        y: 2310
-        width: 51
-        height: 66
+        x: 240
+        y: 2160
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1226,10 +1226,10 @@ TextureImporter:
       name: RedMarks_53
       rect:
         serializedVersion: 2
-        x: 1530
-        y: 2244
-        width: 51
-        height: 66
+        x: 300
+        y: 2160
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1247,10 +1247,10 @@ TextureImporter:
       name: RedMarks_54
       rect:
         serializedVersion: 2
-        x: 1581
-        y: 2244
-        width: 51
-        height: 66
+        x: 1440
+        y: 2160
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1268,10 +1268,10 @@ TextureImporter:
       name: RedMarks_55
       rect:
         serializedVersion: 2
-        x: 204
-        y: 2178
-        width: 51
-        height: 66
+        x: 1500
+        y: 2160
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1289,10 +1289,10 @@ TextureImporter:
       name: RedMarks_56
       rect:
         serializedVersion: 2
-        x: 255
-        y: 2178
-        width: 51
-        height: 66
+        x: 1560
+        y: 2160
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1310,10 +1310,10 @@ TextureImporter:
       name: RedMarks_57
       rect:
         serializedVersion: 2
-        x: 306
-        y: 2178
-        width: 51
-        height: 66
+        x: 120
+        y: 2100
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1331,10 +1331,10 @@ TextureImporter:
       name: RedMarks_58
       rect:
         serializedVersion: 2
-        x: 1479
-        y: 2178
-        width: 51
-        height: 66
+        x: 180
+        y: 2100
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1352,10 +1352,10 @@ TextureImporter:
       name: RedMarks_59
       rect:
         serializedVersion: 2
-        x: 1530
-        y: 2178
-        width: 51
-        height: 66
+        x: 1380
+        y: 2100
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1373,10 +1373,10 @@ TextureImporter:
       name: RedMarks_60
       rect:
         serializedVersion: 2
-        x: 1581
-        y: 2178
-        width: 51
-        height: 66
+        x: 1440
+        y: 2100
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1394,10 +1394,10 @@ TextureImporter:
       name: RedMarks_61
       rect:
         serializedVersion: 2
-        x: 153
-        y: 2112
-        width: 51
-        height: 66
+        x: 60
+        y: 2040
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1415,10 +1415,10 @@ TextureImporter:
       name: RedMarks_62
       rect:
         serializedVersion: 2
-        x: 204
-        y: 2112
-        width: 51
-        height: 66
+        x: 120
+        y: 2040
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1436,10 +1436,10 @@ TextureImporter:
       name: RedMarks_63
       rect:
         serializedVersion: 2
-        x: 255
-        y: 2112
-        width: 51
-        height: 66
+        x: 1380
+        y: 2040
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1457,10 +1457,10 @@ TextureImporter:
       name: RedMarks_64
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 2112
-        width: 51
-        height: 66
+        x: 1440
+        y: 2040
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1478,10 +1478,10 @@ TextureImporter:
       name: RedMarks_65
       rect:
         serializedVersion: 2
-        x: 1479
-        y: 2112
-        width: 51
-        height: 66
+        x: 1320
+        y: 1980
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1499,10 +1499,10 @@ TextureImporter:
       name: RedMarks_66
       rect:
         serializedVersion: 2
-        x: 102
-        y: 2046
-        width: 51
-        height: 66
+        x: 1380
+        y: 1980
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1520,10 +1520,10 @@ TextureImporter:
       name: RedMarks_67
       rect:
         serializedVersion: 2
-        x: 153
-        y: 2046
-        width: 51
-        height: 66
+        x: 240
+        y: 1800
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1541,10 +1541,10 @@ TextureImporter:
       name: RedMarks_68
       rect:
         serializedVersion: 2
-        x: 1377
-        y: 2046
-        width: 51
-        height: 66
+        x: 300
+        y: 1800
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1562,10 +1562,10 @@ TextureImporter:
       name: RedMarks_69
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 2046
-        width: 51
-        height: 66
+        x: 1500
+        y: 1800
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1583,10 +1583,10 @@ TextureImporter:
       name: RedMarks_70
       rect:
         serializedVersion: 2
-        x: 1326
-        y: 1980
-        width: 51
-        height: 66
+        x: 1560
+        y: 1800
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1604,10 +1604,10 @@ TextureImporter:
       name: RedMarks_71
       rect:
         serializedVersion: 2
-        x: 1377
-        y: 1980
-        width: 51
-        height: 66
+        x: 180
+        y: 1740
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1625,10 +1625,10 @@ TextureImporter:
       name: RedMarks_72
       rect:
         serializedVersion: 2
-        x: 255
-        y: 1848
-        width: 51
-        height: 66
+        x: 240
+        y: 1740
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1646,10 +1646,10 @@ TextureImporter:
       name: RedMarks_73
       rect:
         serializedVersion: 2
-        x: 306
-        y: 1848
-        width: 51
-        height: 66
+        x: 1440
+        y: 1740
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1667,10 +1667,10 @@ TextureImporter:
       name: RedMarks_74
       rect:
         serializedVersion: 2
-        x: 204
-        y: 1782
-        width: 51
-        height: 66
+        x: 1500
+        y: 1740
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1688,10 +1688,10 @@ TextureImporter:
       name: RedMarks_75
       rect:
         serializedVersion: 2
-        x: 255
-        y: 1782
-        width: 51
-        height: 66
+        x: 1560
+        y: 1740
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1709,10 +1709,10 @@ TextureImporter:
       name: RedMarks_76
       rect:
         serializedVersion: 2
-        x: 306
-        y: 1782
-        width: 51
-        height: 66
+        x: 120
+        y: 1680
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1730,10 +1730,10 @@ TextureImporter:
       name: RedMarks_77
       rect:
         serializedVersion: 2
-        x: 1479
-        y: 1782
-        width: 51
-        height: 66
+        x: 180
+        y: 1680
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1751,10 +1751,10 @@ TextureImporter:
       name: RedMarks_78
       rect:
         serializedVersion: 2
-        x: 1530
-        y: 1782
-        width: 51
-        height: 66
+        x: 1380
+        y: 1680
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1772,10 +1772,10 @@ TextureImporter:
       name: RedMarks_79
       rect:
         serializedVersion: 2
-        x: 1581
-        y: 1782
-        width: 51
-        height: 66
+        x: 1440
+        y: 1680
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1793,10 +1793,10 @@ TextureImporter:
       name: RedMarks_80
       rect:
         serializedVersion: 2
-        x: 153
-        y: 1716
-        width: 51
-        height: 66
+        x: 60
+        y: 1620
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1814,10 +1814,10 @@ TextureImporter:
       name: RedMarks_81
       rect:
         serializedVersion: 2
-        x: 204
-        y: 1716
-        width: 51
-        height: 66
+        x: 120
+        y: 1620
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1835,10 +1835,10 @@ TextureImporter:
       name: RedMarks_82
       rect:
         serializedVersion: 2
-        x: 255
-        y: 1716
-        width: 51
-        height: 66
+        x: 1380
+        y: 1620
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1856,10 +1856,10 @@ TextureImporter:
       name: RedMarks_83
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 1716
-        width: 51
-        height: 66
+        x: 60
+        y: 1560
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1877,10 +1877,10 @@ TextureImporter:
       name: RedMarks_84
       rect:
         serializedVersion: 2
-        x: 1479
-        y: 1716
-        width: 51
-        height: 66
+        x: 240
+        y: 1500
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1898,10 +1898,10 @@ TextureImporter:
       name: RedMarks_85
       rect:
         serializedVersion: 2
-        x: 1530
-        y: 1716
-        width: 51
-        height: 66
+        x: 300
+        y: 1500
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1919,10 +1919,10 @@ TextureImporter:
       name: RedMarks_86
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1650
-        width: 51
-        height: 66
+        x: 180
+        y: 1440
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1940,10 +1940,10 @@ TextureImporter:
       name: RedMarks_87
       rect:
         serializedVersion: 2
-        x: 153
-        y: 1650
-        width: 51
-        height: 66
+        x: 240
+        y: 1440
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1961,10 +1961,10 @@ TextureImporter:
       name: RedMarks_88
       rect:
         serializedVersion: 2
-        x: 1377
-        y: 1650
-        width: 51
-        height: 66
+        x: 120
+        y: 1380
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1982,10 +1982,10 @@ TextureImporter:
       name: RedMarks_89
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 1650
-        width: 51
-        height: 66
+        x: 180
+        y: 1380
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2003,10 +2003,10 @@ TextureImporter:
       name: RedMarks_90
       rect:
         serializedVersion: 2
-        x: 51
-        y: 1584
-        width: 51
-        height: 66
+        x: 60
+        y: 1320
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2024,10 +2024,10 @@ TextureImporter:
       name: RedMarks_91
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1584
-        width: 51
-        height: 66
+        x: 120
+        y: 1320
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2045,10 +2045,10 @@ TextureImporter:
       name: RedMarks_92
       rect:
         serializedVersion: 2
-        x: 1377
-        y: 1584
-        width: 51
-        height: 66
+        x: 60
+        y: 1260
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2066,10 +2066,10 @@ TextureImporter:
       name: RedMarks_93
       rect:
         serializedVersion: 2
-        x: 255
-        y: 1518
-        width: 51
-        height: 66
+        x: 120
+        y: 1260
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2087,10 +2087,10 @@ TextureImporter:
       name: RedMarks_94
       rect:
         serializedVersion: 2
-        x: 306
-        y: 1518
-        width: 51
-        height: 66
+        x: 300
+        y: 840
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2108,10 +2108,10 @@ TextureImporter:
       name: RedMarks_95
       rect:
         serializedVersion: 2
-        x: 204
-        y: 1452
-        width: 51
-        height: 66
+        x: 360
+        y: 840
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2129,10 +2129,10 @@ TextureImporter:
       name: RedMarks_96
       rect:
         serializedVersion: 2
-        x: 255
-        y: 1452
-        width: 51
-        height: 66
+        x: 240
+        y: 780
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2150,10 +2150,10 @@ TextureImporter:
       name: RedMarks_97
       rect:
         serializedVersion: 2
-        x: 306
-        y: 1452
-        width: 51
-        height: 66
+        x: 300
+        y: 780
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2171,10 +2171,10 @@ TextureImporter:
       name: RedMarks_98
       rect:
         serializedVersion: 2
-        x: 153
-        y: 1386
-        width: 51
-        height: 66
+        x: 180
+        y: 720
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2192,10 +2192,10 @@ TextureImporter:
       name: RedMarks_99
       rect:
         serializedVersion: 2
-        x: 204
-        y: 1386
-        width: 51
-        height: 66
+        x: 240
+        y: 720
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2213,10 +2213,10 @@ TextureImporter:
       name: RedMarks_100
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1320
-        width: 51
-        height: 66
+        x: 120
+        y: 660
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2234,10 +2234,10 @@ TextureImporter:
       name: RedMarks_101
       rect:
         serializedVersion: 2
-        x: 153
-        y: 1320
-        width: 51
-        height: 66
+        x: 180
+        y: 660
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2255,10 +2255,10 @@ TextureImporter:
       name: RedMarks_102
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1254
-        width: 51
-        height: 66
+        x: 60
+        y: 600
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2276,10 +2276,10 @@ TextureImporter:
       name: RedMarks_103
       rect:
         serializedVersion: 2
-        x: 306
-        y: 858
-        width: 51
-        height: 66
+        x: 120
+        y: 600
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2297,10 +2297,10 @@ TextureImporter:
       name: RedMarks_104
       rect:
         serializedVersion: 2
-        x: 357
-        y: 858
-        width: 51
-        height: 66
+        x: 60
+        y: 540
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2318,10 +2318,10 @@ TextureImporter:
       name: RedMarks_105
       rect:
         serializedVersion: 2
-        x: 408
-        y: 858
-        width: 51
-        height: 66
+        x: 0
+        y: 480
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2339,10 +2339,10 @@ TextureImporter:
       name: RedMarks_106
       rect:
         serializedVersion: 2
-        x: 255
-        y: 792
-        width: 51
-        height: 66
+        x: 60
+        y: 480
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2352,300 +2352,6 @@ TextureImporter:
       bones: []
       spriteID: a1dae8f9efaf24fd6bbb343bd323e668
       internalID: 117308351
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_107
-      rect:
-        serializedVersion: 2
-        x: 306
-        y: 792
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 488a5019ae77d44e6b1e5a104434b247
-      internalID: 1108496884
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_108
-      rect:
-        serializedVersion: 2
-        x: 357
-        y: 792
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b64bca2e3a4f4bc285133dc43ad1890
-      internalID: -1043010867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_109
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 726
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed5be021f83f846328696ebe91f2be1d
-      internalID: 1128032082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_110
-      rect:
-        serializedVersion: 2
-        x: 255
-        y: 726
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c2507461120346e2947add746fcbb5d
-      internalID: 2005556467
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_111
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 660
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8ccb73c631354cd8b9d0362813986c1
-      internalID: -1216886208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_112
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 660
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 86722c221504b4a2abd6b2208a7a9dc6
-      internalID: 559698011
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_113
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 660
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40ca51cb4108c49d1807db9fa28c9fba
-      internalID: 2063120903
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_114
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 594
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 02f7c8961295044aaa43ea0748d8d175
-      internalID: -1624727937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_115
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 594
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6cfe1797fca9a42a3b0622092ccd1ee5
-      internalID: 2052167716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_116
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 594
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b4f0dd0059264a47a656cc2629069b4
-      internalID: -977535039
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_117
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 528
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1dc7cda2248544f92bf03358865f1a31
-      internalID: 1855026565
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_118
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 528
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa365e18b14654c8695fb83bb7bb2597
-      internalID: -1500175795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_119
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 462
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9bbc73ac52314c7594ed5449aeab0df
-      internalID: -1973492370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RedMarks_120
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 462
-        width: 51
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 67be3e430e2d34c47b532e965a6bb188
-      internalID: 805392728
       vertices: []
       indices: 
       edges: []
@@ -2671,22 +2377,8 @@ TextureImporter:
       RedMarks_104: -560713758
       RedMarks_105: -1695490546
       RedMarks_106: 117308351
-      RedMarks_107: 1108496884
-      RedMarks_108: -1043010867
-      RedMarks_109: 1128032082
       RedMarks_11: -739108691
-      RedMarks_110: 2005556467
-      RedMarks_111: -1216886208
-      RedMarks_112: 559698011
-      RedMarks_113: 2063120903
-      RedMarks_114: -1624727937
-      RedMarks_115: 2052167716
-      RedMarks_116: -977535039
-      RedMarks_117: 1855026565
-      RedMarks_118: -1500175795
-      RedMarks_119: -1973492370
       RedMarks_12: 1828886562
-      RedMarks_120: 805392728
       RedMarks_13: -369378877
       RedMarks_14: 736086905
       RedMarks_15: -67968794
