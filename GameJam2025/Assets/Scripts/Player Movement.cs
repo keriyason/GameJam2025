@@ -13,26 +13,30 @@ public class PlayerMovement : MonoBehaviour
 
         //get key W A S D
 
-        if (Input.GetKey(KeyCode.W))
+        if (Input.GetKey(KeyCode.D))
         {
             transform.Rotate(0, 3, -3);
             rb.AddForce(transform.right * speed, ForceMode.Impulse);
         }
-        if (Input.GetKey(KeyCode.S))
+        if (Input.GetKey(KeyCode.A))
         {
             transform.Rotate(0, -3, 3);
             rb.AddForce(transform.right * speed, ForceMode.Impulse);
         }
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKey(KeyCode.RightArrow))
         {
             transform.Rotate(0, -3, -3);
             rb.AddForce(-transform.right * speed, ForceMode.Impulse);
         }
-        
+        if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            transform.Rotate(0, 3, -3);
+            rb.AddForce(transform.right * speed, ForceMode.Impulse);
+
+
+        }
+
 
 
     }
-
-
-
 }
