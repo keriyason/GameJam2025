@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class Eraser : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter(Collider other) // 3D collision uses Collider, not Collider2D
     {
-        // Check if the collider belongs to a 3D object with the tag "Sprite"
-        if (other.attachedRigidbody != null && other.attachedRigidbody.gameObject.CompareTag("Player"))
+        Debug.Log($"Trigger entered by: {other.name} with tag: {other.tag}");
+
+        if (other.CompareTag("Player"))
         {
-            Destroy(gameObject); // Delete this 2D sprite GameObject
-            Debug.Log($"{gameObject.name} was deleted after collision with a 3D object tagged 'Sprite'");
+            Debug.Log("Player detected — destroying sprite.");
+            Destroy(gameObject); // Deletes this sprite GameObject
         }
     }
 }
-
