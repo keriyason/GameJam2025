@@ -19,8 +19,10 @@ public class PlayerMovement : MonoBehaviour
 
         // Combine or process inputs
         Vector3 combinedMovement = new Vector3(player1Horizontal + player2Horizontal, 0, player1Vertical + player2Vertical);
-        transform.Translate(combinedMovement * speed * Time.deltaTime, Space.World);
-        rb.AddForce(new Vector3 (player1Horizontal, 0, player1Vertical));
+        combinedMovement *= speed;
+        //transform.Translate(combinedMovement * speed * Time.deltaTime, Space.World);
+        //rb.AddForce(new Vector3 (player1Horizontal, 0, player1Vertical));
+        rb.AddForce(combinedMovement);
 
     }
 }
