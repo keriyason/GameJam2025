@@ -23,17 +23,7 @@ public class EraserFade : MonoBehaviour
     {
         if (!playerTouched || isFading) return;
 
-        // Check for required key presses with logs
-        if (Input.GetKeyDown(KeyCode.A))
-        {
-            pressedA = true;
-            Debug.Log("Input detected: A");
-        }
-        if (Input.GetKeyDown(KeyCode.D))
-        {
-            pressedD = true;
-            Debug.Log("Input detected: D");
-        }
+        
         if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
             pressedLeft = true;
@@ -46,7 +36,7 @@ public class EraserFade : MonoBehaviour
         }
 
         // Start fade only when all keys have been pressed
-        if (pressedA && pressedD && pressedLeft && pressedRight)
+        if (pressedLeft && pressedRight)
         {
             Debug.Log("All required inputs received. Starting fade...");
             StartCoroutine(FadeOut());
