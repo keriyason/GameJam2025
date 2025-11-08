@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Blue
+  - Red
+  - Blue Side
+  - Red Side
   layers:
   - Default
   - TransparentFX
