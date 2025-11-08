@@ -4,42 +4,50 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
 
-
 public class Timer : MonoBehaviour
+
 {
-    public float timeRemaining = 60f; 
+    public float timeRemaining = 60f;
     public bool timerIsRunning = false;
     public TMP_Text timerText;
-    public GameObject restartButton; // Reset Button
-    public GameObject mainMenuButton; // Main Menu Button
+    public AudioSource bellSound;
+
     void Start()
     {
-        timerIsRunning = true; // Start Coundown
-         // Hide Main Menu Button on Start
-       
+        timerIsRunning = true;
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (timerIsRunning)
         {
             if (timeRemaining > 0)
             {
-                timeRemaining -= Time.deltaTime; // Counting Down
-                DisplayTime(timeRemaining); // Updates the Timer Text
+                timeRemaining -= Time.deltaTime;
+                DisplayTime(timeRemaining);
             }
             else
             {
-                Debug.Log("Game Over");
                 timeRemaining = 0;
-                timerIsRunning=false;
+                timerIsRunning = false;
                 DisplayTime(timeRemaining);
 
-                SceneManager.LoadScene("Fail");
+                Debug.Log("Game Over");
+                StartCoroutine(TriggerFailSequence());
             }
         }
-        
+    }
+
+    IEnumerator TriggerFailSequence()
+    {
+        if (bellSound != null)
+        {
+            bellSound.Play();
+        }
+
+        yield return new WaitForSeconds(5f); // 5 Second Delay
+
+        SceneManager.LoadScene("FailScene");
     }
 
     void DisplayTime(float timeToDisplay)
@@ -51,10 +59,5 @@ public class Timer : MonoBehaviour
 
         timerText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
     }
-    public void FailScreen()
-    {
-        Debug.Log("Restart button clicked!");
-        SceneManager.LoadScene("Sample Scene");
-    }
-    
+
 }
