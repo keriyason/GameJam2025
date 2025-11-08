@@ -18,13 +18,17 @@ public class PlayerMovement : MonoBehaviour
             transform.Rotate(0, 3, -3);
             rb.AddForce(transform.right * speed, ForceMode.Impulse);
         }
-
+        if (Input.GetKey(KeyCode.S))
+        {
+            transform.Rotate(0, -3, 3);
+            rb.AddForce(transform.right * speed, ForceMode.Impulse);
+        }
         if (Input.GetKey(KeyCode.UpArrow))
         {
             transform.Rotate(0, -3, -3);
             rb.AddForce(-transform.right * speed, ForceMode.Impulse);
         }
-
+        
 
 
     }
