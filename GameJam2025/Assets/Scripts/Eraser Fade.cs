@@ -8,6 +8,8 @@ public class EraserFade : MonoBehaviour
     private SpriteRenderer sr;
     private bool playerTouched = false;
     private bool isFading = false;
+    private EraserManager progressManager;
+
 
     private bool pressedA = false;
     private bool pressedD = false;
@@ -17,6 +19,9 @@ public class EraserFade : MonoBehaviour
     void Start()
     {
         sr = GetComponent<SpriteRenderer>();
+        progressManager = FindObjectOfType<EraserManager>();
+        progressManager?.RegisterErasable();
+
     }
 
     void Update()
@@ -70,6 +75,7 @@ public class EraserFade : MonoBehaviour
 
         sr.color = new Color(originalColor.r, originalColor.g, originalColor.b, 0f);
         Debug.Log("Fade complete. Destroying object.");
+        progressManager?.ReportErased();
         Destroy(gameObject);
     }
 }
