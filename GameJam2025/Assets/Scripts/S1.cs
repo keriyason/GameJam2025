@@ -3,18 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class S1: MonoBehaviour
+public class Erase: MonoBehaviour
 {
-    public string nextSceneName = "S2";
+    public string StartingScene = "SampleScene";
 
-    void Start()
+    public void StartGame()
     {
-        // Start the delayed transition
-        Invoke("LoadNextScene", 4f);
-    }
-
-    void LoadNextScene()
-    {
-        SceneManager.LoadScene("S2");
+        SceneManager.LoadScene("SampleScene");
     }
 }
