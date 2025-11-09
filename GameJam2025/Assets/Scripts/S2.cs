@@ -5,10 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class S2 : MonoBehaviour
 {
-    public string StartingScene = "StartingScreen";
+    public string StartingScene = "Starting Screen";
 
     public void StartingScreen()
     {
-        SceneManager.LoadScene("StartingScreen");
+        SceneManager.LoadScene("Starting Screen");
     }
 }
