@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Schoolbell : MonoBehaviour
 {
-    public float minAngle = -20f;
-    public float maxAngle = 20f;
+    public float minAngle = -80f;
+    public float maxAngle = -80f;
     public float speed = 50.0f; //speed of rocking motion
 
     // Start is called before the first frame update
@@ -19,6 +19,6 @@ public class Schoolbell : MonoBehaviour
     {
         float time = Mathf.PingPong(Time.time * speed, 1);
         float angle = Mathf.Lerp(minAngle, maxAngle, time);
-        transform.rotation = Quaternion.Euler(angle, 0, 0);
+        transform.rotation = Quaternion.Euler(0, angle, 0);
     }
 }
