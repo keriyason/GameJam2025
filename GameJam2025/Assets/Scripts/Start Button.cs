@@ -6,11 +6,11 @@ using UnityEngine.SceneManagement;
 
 public class StartButton : MonoBehaviour
 {
-    public string StartingScene = "S1";
+    public string StartingScene = "Scene Transitions";
 
     public void StartGame()
     {
-        SceneManager.LoadScene("S1");
+        SceneManager.LoadScene("Scene Transitions");
     }
 }
 
