@@ -190,6 +190,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &100494821 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7987639605691724611, guid: 67a92fc80ef3647418d5831ead0cb604, type: 3}
+  m_PrefabInstance: {fileID: 686338015}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &246413473
 GameObject:
   m_ObjectHideFlags: 0
@@ -292,6 +297,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2122553565}
     m_Modifications:
+    - target: {fileID: 60567793611150311, guid: 67a92fc80ef3647418d5831ead0cb604, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60567793611150311, guid: 67a92fc80ef3647418d5831ead0cb604, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 100494821}
+    - target: {fileID: 60567793611150311, guid: 67a92fc80ef3647418d5831ead0cb604, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 60567793611150311, guid: 67a92fc80ef3647418d5831ead0cb604, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: ChangeScenes, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 1433303718432322701, guid: 67a92fc80ef3647418d5831ead0cb604, type: 3}
       propertyPath: m_Sprite
       value: 
