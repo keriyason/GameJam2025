@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class S1: MonoBehaviour
 {
-    public string nextSceneName = "S2"; // Change to your actual scene name
+    public string nextSceneName = "S2";
 
     void Start()
     {
