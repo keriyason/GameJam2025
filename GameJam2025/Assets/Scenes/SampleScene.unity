@@ -537,7 +537,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 4691cb286b6587246afebd6d56f5d568, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.4
+  m_Volume: 0.35
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -2262,7 +2262,7 @@ Transform:
   m_GameObject: {fileID: 233030920}
   serializedVersion: 2
   m_LocalRotation: {x: -0.47576416, y: 0.025621967, z: -0.013782646, w: -0.8790916}
-  m_LocalPosition: {x: -0.6636646, y: 9.040868, z: -14.37984}
+  m_LocalPosition: {x: -0.7166646, y: 9.040868, z: -14.4048395}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5733,7 +5733,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   progressSlider: {fileID: 861407673}
-  totalErasables: 15
+  totalErasables: 0
+  winThreshold: 40
   winSceneName: WinScene
 --- !u!4 &794596451
 Transform:
@@ -6875,15 +6876,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: ESC to view instructions
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 6d249c37046687541ae99713ff709687, type: 2}
+  m_sharedMaterial: {fileID: -6304382593238197808, guid: 6d249c37046687541ae99713ff709687, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -8266,7 +8267,7 @@ Transform:
   m_GameObject: {fileID: 1247977352}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7493952, y: 0.033914693, z: -0.038500637, w: 0.66013217}
-  m_LocalPosition: {x: 0.069, y: 1.763, z: -9.566}
+  m_LocalPosition: {x: 0.323, y: 4.205, z: -9.877}
   m_LocalScale: {x: 0.14674489, y: 0.14674495, z: 0.14674495}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8433,7 +8434,7 @@ Transform:
   m_GameObject: {fileID: 1270675012}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7493952, y: 0.033914693, z: -0.038500637, w: 0.66013217}
-  m_LocalPosition: {x: -0.187, y: 1.774, z: -10.044}
+  m_LocalPosition: {x: 0.076, y: 4.306, z: -10.366}
   m_LocalScale: {x: 0.14674489, y: 0.14674495, z: 0.14674495}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9873,15 +9874,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Timer:'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 6d249c37046687541ae99713ff709687, type: 2}
+  m_sharedMaterial: {fileID: -6304382593238197808, guid: 6d249c37046687541ae99713ff709687, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -12032,7 +12033,7 @@ Transform:
   m_GameObject: {fileID: 1823060080}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7493952, y: 0.033914693, z: -0.038500637, w: 0.66013217}
-  m_LocalPosition: {x: 0.24500002, y: 1.668537, z: -8.96}
+  m_LocalPosition: {x: 0.393, y: 3.093, z: -9.141}
   m_LocalScale: {x: 0.14674489, y: 0.14674495, z: 0.14674495}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15266,7 +15267,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9006363677954739859, guid: d09041eb4f5b9452383414cd02afad52, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.983
+      value: -1.036
       objectReference: {fileID: 0}
     - target: {fileID: 9006363677954739859, guid: d09041eb4f5b9452383414cd02afad52, type: 3}
       propertyPath: m_LocalPosition.y
@@ -15274,7 +15275,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9006363677954739859, guid: d09041eb4f5b9452383414cd02afad52, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -8.92
+      value: -8.945
       objectReference: {fileID: 0}
     - target: {fileID: 9006363677954739859, guid: d09041eb4f5b9452383414cd02afad52, type: 3}
       propertyPath: m_LocalRotation.w

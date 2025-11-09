@@ -7,7 +7,8 @@ using UnityEngine.UI;
 public class EraserManager : MonoBehaviour
 {
     public Slider progressSlider; //Slider Attachment
-    public int totalErasables = 15; //Total of Erased
+    public int totalErasables = 10; //Total of Erased
+    public int winThreshold = 40;
     private int erasedCount = 0;
     public string winSceneName = "WinScene"; //Win Scene Transition
 
@@ -30,7 +31,7 @@ public class EraserManager : MonoBehaviour
         progressSlider.value = progress;
         Debug.Log($"Erased {erasedCount}/{totalErasables} — {progress * 100f:F1}%");
 
-        if (erasedCount >= totalErasables)
+        if (erasedCount >= winThreshold)
         {
             Debug.Log("All items erased. Loading win scene...");
             SceneManager.LoadScene("WinScene");
