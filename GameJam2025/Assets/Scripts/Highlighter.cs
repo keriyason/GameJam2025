@@ -1,17 +1,18 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Highlighter : MonoBehaviour
 {
     
-    public GameObject highlighterPrefab;
-    public Transform spawnPoint;
-    public float spawnInterval;
+    [SerializeField] public GameObject highlighterPrefab;
+    [SerializeField] public Transform spawnPoint;
+    [SerializeField] private float spawnInterval;
 
-    private int spawnCount = 0;
-    private const int maxSpawns = 3;
+    private int spawnCount;
+    
 
     /*
     // Start is called before the first frame update
@@ -30,18 +31,30 @@ public class Highlighter : MonoBehaviour
 
     private void Start()
     {
-        InvokeRepeating("SpawnHighlighter", 30f, 3);
+        spawnCount = 0;
+        InvokeRepeating("SpawnHighlighter", spawnInterval, spawnInterval);
+    }
+
+    private void Update()
+    {
+        if (spawnCount == 3)
+        {
+            CancelInvoke();
+        }
     }
 
     void SpawnHighlighter()
     {
-        if (spawnCount >= maxSpawns)
+        if(spawnPoint != null)
         {
-            CancelInvoke("SpawnHighlighter");
-            return;
-        }
+            spawnCount++;
 
-        Instantiate(highlighterPrefab, spawnPoint.position, Quaternion.identity);
+            Instantiate(highlighterPrefab, spawnPoint.position, Quaternion.identity);
+        }
+        else
+        {
+            Debug.Log("bleh");
+        }
         
     }
 }
