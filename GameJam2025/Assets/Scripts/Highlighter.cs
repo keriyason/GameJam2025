@@ -10,6 +10,7 @@ public class Highlighter : MonoBehaviour
     [SerializeField] public GameObject highlighterPrefab;
     [SerializeField] public Transform spawnPoint;
     [SerializeField] private float spawnInterval;
+   
 
     private int spawnCount;
     
@@ -37,7 +38,7 @@ public class Highlighter : MonoBehaviour
 
     private void Update()
     {
-        if (spawnCount == 3)
+        if (spawnCount == 1)
         {
             CancelInvoke();
         }
