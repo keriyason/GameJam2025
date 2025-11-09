@@ -27,7 +27,7 @@ public class PlayerMovement : MonoBehaviour
         }
         else if (Input.GetKey(KeyCode.LeftArrow))
         {
-            transform.Rotate(0, 3, -3);
+            transform.Rotate(0, 3, 3);
             rb.AddForce(-transform.right * speed, ForceMode.Impulse);
         }
     }
