@@ -19,7 +19,7 @@ public class ImageTransitions : MonoBehaviour
         currentscene = scenes[index];
 
         
-        InvokeRepeating("SetActive", 5f, 4);
+        InvokeRepeating("SetActive", 5f, 5);
         
     }
     // Update is called once per frame
