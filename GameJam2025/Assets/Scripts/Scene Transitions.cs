@@ -6,44 +6,61 @@ using UnityEngine;
 
 public class ImageTransitions : MonoBehaviour
 {
+    /*
     [SerializeField] private GameObject scene2;
     [SerializeField] private GameObject scene3;
     [SerializeField] private GameObject scene4;
     [SerializeField] private GameObject scene5;
+    */
+    [SerializeField] private List<GameObject> scenes;
 
-    float delayTime = 5f;
+    GameObject currentscene;
+    private int index;
 
     // Start is called before the first frame update
     void Start()
     {
-        //StartCoroutine(DelayCoroutine(delayTime));
-        //delay
-        Invoke("CustSetActive", 5f);
+        index = 0;
+        currentscene = scenes[index];
 
-        StartCoroutine(DelayCoroutine(delayTime));
+        //StartCoroutine(DelayScene(delayTime));
         //delay
-        scene3.SetActive(true);
+        InvokeRepeating("S2SetActive", 5f, 4);
+        //scene2.SetActive(true);
 
-        StartCoroutine(DelayCoroutine(delayTime));
+        //StartCoroutine(DelayScene(delayTime));
         //delay
-        scene4.SetActive(true);
+        //scene3.SetActive(true);
 
-        StartCoroutine(DelayCoroutine(delayTime));
+        //StartCoroutine(DelayScene(delayTime));
         //delay
-        scene5.SetActive(true);
+        //scene4.SetActive(true);
+
+        //StartCoroutine(DelayScene(delayTime));
+        //delay
+        //scene5.SetActive(true);
     }
-    IEnumerator DelayCoroutine(float delayTime)
+    /*
+    IEnumerator DelayScene(float delayTime)
     {
+        Debug.Log("starting timer");
         yield return new WaitForSeconds(delayTime);
+        Debug.Log("finished");
+
     }
+    */
     // Update is called once per frame
     void Update()
     {
-        
+        if (currentscene.activeInHierarchy && index < scenes.Count - 1)
+        {
+            index++;
+            currentscene = scenes[index];
+        }
     }
-
-    void CustSetActive(GameObject scene)
+    
+    void S2SetActive()
     {
-        scene.SetActive(true);
+        currentscene.SetActive(true);
     }
 }
