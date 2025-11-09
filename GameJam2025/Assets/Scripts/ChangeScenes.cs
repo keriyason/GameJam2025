@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Erase: MonoBehaviour
+public class ChangeScenes: MonoBehaviour
 {
     [SerializeField] string scene;
 
-    public void StartGame()
+    public void ChangeScene()
     {
         SceneManager.LoadScene(scene);
     }
