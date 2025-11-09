@@ -6,21 +6,21 @@ public class PlayerMovement : MonoBehaviour
 
 {
     public float speed = 5f;
-public Rigidbody rb;
+    public Rigidbody rb;
 
-private KeyCode lastKeyPressed;
+    private KeyCode lastKeyPressed;
 
-void Update()
-{
-    // Track the most recent key press
-    if (Input.GetKeyDown(KeyCode.D)) lastKeyPressed = KeyCode.D;
-    else if (Input.GetKeyDown(KeyCode.A)) lastKeyPressed = KeyCode.A;
-    else if (Input.GetKeyDown(KeyCode.RightArrow)) lastKeyPressed = KeyCode.RightArrow;
-    else if (Input.GetKeyDown(KeyCode.LeftArrow)) lastKeyPressed = KeyCode.LeftArrow;
-}
+    void Update()
+    {
+        // Track the most recent key press
+        if (Input.GetKeyDown(KeyCode.D)) lastKeyPressed = KeyCode.D;
+        else if (Input.GetKeyDown(KeyCode.A)) lastKeyPressed = KeyCode.A;
+        else if (Input.GetKeyDown(KeyCode.RightArrow)) lastKeyPressed = KeyCode.RightArrow;
+        else if (Input.GetKeyDown(KeyCode.LeftArrow)) lastKeyPressed = KeyCode.LeftArrow;
+    }
 
-void FixedUpdate()
-{
+    void FixedUpdate()
+    {
         if (lastKeyPressed==KeyCode.D && Input.GetKey(KeyCode.D))
         {
             transform.Rotate(0, 3, -3);
