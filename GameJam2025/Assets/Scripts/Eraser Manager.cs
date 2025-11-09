@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class EraserManager : MonoBehaviour
 {
     public Slider progressSlider; //Slider Attachment
-    public int totalErasables = 25; //Total of Erased
+    public int totalErasables = 15; //Total of Erased
     private int erasedCount = 0;
     public string winSceneName = "WinScene"; //Win Scene Transition
 
