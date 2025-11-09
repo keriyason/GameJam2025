@@ -7357,7 +7357,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1254143831869694914, guid: 6da4c00591cedb547b4609308216a7a1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.646
+      value: 0.641
       objectReference: {fileID: 0}
     - target: {fileID: 1254143831869694914, guid: 6da4c00591cedb547b4609308216a7a1, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8168,9 +8168,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e6213149c92ec44e8f7a21413325c83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  highlighterPrefab: {fileID: 0}
+  highlighterPrefab: {fileID: 7563701915342592230, guid: 4d1c2c221707a4e42b340e35ec4bf8c3, type: 3}
   spawnPoint: {fileID: 714033018}
-  spawnInterval: 60
+  spawnInterval: 4
 --- !u!4 &1270675014
 Transform:
   m_ObjectHideFlags: 0
@@ -11767,9 +11767,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e6213149c92ec44e8f7a21413325c83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  highlighterPrefab: {fileID: 0}
+  highlighterPrefab: {fileID: 4894881757565884409, guid: da18cbd5c6896074e912cf061d4365b4, type: 3}
   spawnPoint: {fileID: 1638195520}
-  spawnInterval: 90
+  spawnInterval: 6
 --- !u!4 &1823060082
 Transform:
   m_ObjectHideFlags: 0
@@ -14978,8 +14978,8 @@ SceneRoots:
   - {fileID: 463420185}
   - {fileID: 1247977354}
   - {fileID: 2012290476}
-  - {fileID: 714033018}
   - {fileID: 1270675014}
+  - {fileID: 714033018}
   - {fileID: 1823060082}
   - {fileID: 1638195520}
   - {fileID: 1004883958}
