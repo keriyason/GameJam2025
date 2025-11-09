@@ -5,10 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class Erase: MonoBehaviour
 {
-    public string StartingScene = "SampleScene";
+    [SerializeField] string scene;
 
     public void StartGame()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene(scene);
     }
 }
