@@ -8,7 +8,7 @@ public class EraserManager : MonoBehaviour
 {
     public Slider progressSlider; //Slider Attachment
     public int totalErasables = 10; //Total of Erased
-    public int winThreshold = 43;
+    public int winThreshold = 46;
     private int erasedCount = 0;
     public string winSceneName = "WinScene"; //Win Scene Transition
 
