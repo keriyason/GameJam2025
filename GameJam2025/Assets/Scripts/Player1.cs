@@ -5,31 +5,35 @@ using UnityEngine;
 public class Player1 : MonoBehaviour
 {
 
-    public float speed = 5f;
-    public Rigidbody rb;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    //[SerializeField] private float speed = 5f;
+    //[SerializeField] private Rigidbody rb;
 
-    // Update is called once per frame
-    void Update()
-    {
+    //public PlayerBool parent;
+    //// Start is called before the first frame update
+    //void Start()
+    //{
         
-    }
-    void FixedUpdate()
-    {
-        if (Input.GetKey(KeyCode.D))
-        {
-            transform.Rotate(0, 3, -3);
-            rb.AddForce(transform.right * speed, ForceMode.Impulse);
-        }
-        else if (Input.GetKey(KeyCode.A))
-        {
-            transform.Rotate(0, -3, 3);
-            rb.AddForce(-transform.right * speed, ForceMode.Impulse);
-        }
+    //}
+
+    //// Update is called once per frame
+    //void Update()
+    //{
         
-    }
+    //}
+    //void FixedUpdate()
+    //{
+    //    if (!parent.isMoving && Input.GetKeyDown(KeyCode.D))
+    //    {
+    //        transform.Rotate(speed * Time.deltaTime * Vector3.right);
+    //        //rb.AddForce(transform.right * speed, ForceMode.Impulse);
+    //        Debug.Log("p1 moved right");
+    //    }
+    //    else if (!parent.isMoving && Input.GetKeyDown(KeyCode.A))
+    //    {
+    //        transform.Rotate(speed * Time.deltaTime * Vector3.left);
+    //        //rb.AddForce(-transform.right * speed, ForceMode.Impulse);
+    //        Debug.Log("p1 moved left");
+    //    }
+        
+    //}
 }
